@@ -1,0 +1,6 @@
+{
+  "appId": "com.editorverse.app",
+  "appName": "EditorVerse",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
